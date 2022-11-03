@@ -1,0 +1,95 @@
+2021-05-05 21:04:36,844 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:05:16,979 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:06:15,819 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:06:55,025 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:06:55,176 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - ERROR - Could not load file or assembly 'System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+2021-05-05 21:06:55,177 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - End
+2021-05-05 21:13:56,581 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:13:56,803 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - ERROR - Could not load file or assembly 'System.Threading.Tasks.Extensions, Version=4.2.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51' or one of its dependencies. The system cannot find the file specified.
+2021-05-05 21:13:56,803 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - End
+2021-05-05 21:14:15,680 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:15:39,640 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:19:03,884 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:19:21,934 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-05 21:29:40,106 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:29:42,640 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-05 21:30:00,097 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:30:20,222 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-05 21:31:19,237 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:31:21,079 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-05 21:36:01,181 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:36:03,760 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-05 21:36:38,955 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:36:41,455 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-05 21:36:56,238 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - End
+2021-05-05 21:50:53,826 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 21:51:10,007 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-05 21:51:11,128 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - End
+2021-05-05 22:07:19,251 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 22:07:21,200 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-05 22:07:22,257 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - End
+2021-05-05 22:07:46,187 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - End
+2021-05-05 22:25:11,380 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-05 22:25:17,823 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-05 22:25:18,760 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - End
+2021-05-05 22:25:30,847 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - End
+2021-05-06 11:42:47,335 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-06 11:48:12,460 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-06 16:39:03,742 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-06 16:46:24,173 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-06 16:46:27,416 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - End
+2021-05-06 16:58:29,215 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-06 16:59:10,061 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: SiteMap Xml Submitted response :: OK
+2021-05-06 17:00:03,713 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-07 11:48:28,865 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-07 11:48:35,493 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-07 11:48:42,450 [1] ERROR BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - error 3D000: database "Vcesta" does not exist
+2021-05-07 11:48:52,135 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-05-07 11:51:13,900 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-07 11:51:15,337 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-07 11:51:15,642 [1] ERROR BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - error 3D000: database "Vcesta" does not exist
+2021-05-07 11:51:17,919 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-05-07 11:51:20,263 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-05-07 11:53:18,912 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-07 11:53:19,718 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-07 11:53:20,024 [1] ERROR BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - error 3D000: database "Vcesta" does not exist
+2021-05-07 11:53:21,265 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-05-07 11:53:23,851 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-05-07 11:54:18,919 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-07 11:54:20,008 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-07 11:54:20,307 [1] ERROR BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - error 3D000: database "Vcesta" does not exist
+2021-05-07 11:54:22,239 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-05-07 11:54:25,293 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-05-07 11:55:55,871 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-07 11:55:56,647 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-07 11:55:59,062 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - End
+2021-05-07 11:56:20,261 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - ERROR - Could not find a part of the path 'E:\Venkatesh\VCESitemapPingService\VCESitemapPingService\bin\Debug\SiteMapFolder\'.
+2021-05-07 11:56:21,928 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-05-07 11:56:24,678 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-05-07 11:57:41,654 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-07 11:57:42,583 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-07 11:57:43,518 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - End
+2021-05-07 11:58:18,726 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-05-07 11:58:19,563 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-05-07 11:58:20,533 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - End
+2021-05-07 11:58:55,625 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: sitemap submission failed - ERROR - Invalid URI: The URI is empty.
+2021-05-07 11:58:56,865 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-05-07 11:58:59,551 [1] INFO  BusinessLogic.LoggingHelper  Classname: EmailNotifications :: SendSMTPErrorReport - Begin
+2021-06-10 18:01:47,749 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-06-10 18:01:52,735 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-06-10 18:01:59,469 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - End
+2021-07-21 12:07:48,716 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-07-21 12:07:54,953 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-07-21 12:33:25,880 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-07-21 12:33:32,153 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-07-21 12:35:51,029 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML - Begin
+2021-07-21 12:35:51,079 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails - Begin
+2021-07-21 12:43:39,770 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML1 - Begin
+2021-07-21 12:43:44,836 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails1 - Begin
+2021-07-21 12:44:08,009 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails1 - End
+2021-07-21 12:49:01,128 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML1 - Begin
+2021-07-21 12:49:02,907 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails1 - Begin
+2021-07-21 12:49:03,844 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails1 - End
+2021-07-30 15:36:46,619 [1] INFO  BusinessLogic.LoggingHelper  Classname: SiteMap :: GenerateSitemapXML1 - Begin
+2021-07-30 15:36:53,944 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails1 - Begin
+2021-07-30 15:36:58,673 [1] INFO  BusinessLogic.LoggingHelper  Classname: DataAccess :: GetPublicationDetails1 - End
