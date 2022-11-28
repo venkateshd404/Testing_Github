@@ -26,6 +26,7 @@ namespace VCESitemapPingService
 #if (DEBUG)
             SiteMap objSiteMap = new SiteMap();
             objSiteMap.GenerateSitemapXML1();
+
 #endif
         }
     }
